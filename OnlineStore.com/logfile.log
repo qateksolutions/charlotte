@@ -1,0 +1,133 @@
+2017-04-30 12:11:51,978 INFO  [Log] ***************************************** 
+2017-04-30 12:11:51,978 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 12:11:51,979 INFO  [Log] ***************************************** 
+2017-04-30 12:11:52,494 INFO  [Log] Excel Sheet is opened 
+2017-04-30 12:11:58,095 INFO  [Log] Deleted all the cookies 
+2017-04-30 12:12:03,148 INFO  [Log] Browser is Launched 
+2017-04-30 12:12:04,316 INFO  [Log] Browser is maximized 
+2017-04-30 12:12:13,074 INFO  [Log] My Account link element found 
+2017-04-30 12:12:15,669 INFO  [Log] UserName textbox found 
+2017-04-30 12:12:15,753 INFO  [Log] Password textbox found 
+2017-04-30 12:12:15,852 INFO  [Log] Login button found 
+2017-04-30 12:12:19,442 INFO  [Log] Log Out link element found 
+2017-04-30 12:12:23,964 INFO  [Log] User Name picked from Excel is:  qatek 
+2017-04-30 12:12:23,965 INFO  [Log] Password picked from Excel is:  Automation1! 
+2017-04-30 12:12:23,994 INFO  [Log] My Account link element found 
+2017-04-30 12:12:25,986 INFO  [Log] UserName textbox found 
+2017-04-30 12:12:26,050 INFO  [Log] User Name is entered 
+2017-04-30 12:12:26,073 INFO  [Log] Password textbox found 
+2017-04-30 12:12:26,146 INFO  [Log] Password is entered 
+2017-04-30 12:12:26,171 INFO  [Log] Login button found 
+2017-04-30 12:12:26,229 INFO  [Log] Login Successfully 
+2017-04-30 12:12:26,229 INFO  [Log] Sign In to Online Store 
+2017-04-30 12:12:29,130 INFO  [Log] Log Out link element found 
+2017-04-30 12:12:33,880 INFO  [Log] Logout from Online Store 
+2017-04-30 12:12:35,775 INFO  [Log] Test execution results is written into Excel file 
+2017-04-30 12:12:35,776 INFO  [Log] ***************************************** 
+2017-04-30 12:12:35,776 INFO  [Log] $$$$$$$$$$$       E---N---D       $$$$$$$$$$$$$$$$$ 
+2017-04-30 12:12:35,776 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 12:12:35,776 INFO  [Log] ***************************************** 
+2017-04-30 13:42:42,487 INFO  [Log] ***************************************** 
+2017-04-30 13:42:42,488 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:42:42,488 INFO  [Log] ***************************************** 
+2017-04-30 13:42:42,999 INFO  [Log] Excel Sheet is opened 
+2017-04-30 13:42:48,556 INFO  [Log] Deleted all the cookies 
+2017-04-30 13:42:52,596 INFO  [Log] Browser is Launched 
+2017-04-30 13:42:53,785 INFO  [Log] Browser is maximized 
+2017-04-30 13:42:53,866 INFO  [Log] User Name picked from Excel is:  qatek 
+2017-04-30 13:42:53,866 INFO  [Log] Password picked from Excel is:  Automation1! 
+2017-04-30 13:42:53,901 INFO  [Log] My Account link element found 
+2017-04-30 13:42:55,655 INFO  [Log] UserName textbox found 
+2017-04-30 13:42:55,727 INFO  [Log] User Name is entered 
+2017-04-30 13:42:55,751 INFO  [Log] Password textbox found 
+2017-04-30 13:42:55,819 INFO  [Log] Password is entered 
+2017-04-30 13:42:55,843 INFO  [Log] Login button found 
+2017-04-30 13:42:55,903 INFO  [Log] Login Successfully 
+2017-04-30 13:42:55,903 INFO  [Log] Sign In to Online Store 
+2017-04-30 13:42:58,523 INFO  [Log] Log Out link element found 
+2017-04-30 13:43:24,596 INFO  [Log] Logout from Online Store 
+2017-04-30 13:44:29,909 INFO  [Log] ***************************************** 
+2017-04-30 13:44:29,909 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:44:29,909 INFO  [Log] ***************************************** 
+2017-04-30 13:44:30,622 INFO  [Log] Excel Sheet is opened 
+2017-04-30 13:44:35,951 INFO  [Log] Deleted all the cookies 
+2017-04-30 13:44:43,818 INFO  [Log] Browser is Launched 
+2017-04-30 13:44:45,000 INFO  [Log] Browser is maximized 
+2017-04-30 13:44:45,097 INFO  [Log] User Name picked from Excel is:  qatek 
+2017-04-30 13:44:45,097 INFO  [Log] Password picked from Excel is:  Automation1! 
+2017-04-30 13:44:45,139 INFO  [Log] My Account link element found 
+2017-04-30 13:44:47,951 INFO  [Log] UserName textbox found 
+2017-04-30 13:44:48,032 INFO  [Log] User Name is entered 
+2017-04-30 13:44:48,064 INFO  [Log] Password textbox found 
+2017-04-30 13:44:48,165 INFO  [Log] Password is entered 
+2017-04-30 13:44:48,199 INFO  [Log] Login button found 
+2017-04-30 13:44:48,278 INFO  [Log] Login Successfully 
+2017-04-30 13:44:48,278 INFO  [Log] Sign In to Online Store 
+2017-04-30 13:44:52,196 INFO  [Log] Log Out link element found 
+2017-04-30 13:45:19,442 INFO  [Log] Logout from Online Store 
+2017-04-30 13:45:20,738 INFO  [Log] Test execution results is written into Excel file 
+2017-04-30 13:45:20,739 INFO  [Log] ***************************************** 
+2017-04-30 13:45:20,739 INFO  [Log] $$$$$$$$$$$       E---N---D       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:45:20,739 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:45:20,739 INFO  [Log] ***************************************** 
+2017-04-30 13:46:18,365 INFO  [Log] ***************************************** 
+2017-04-30 13:46:18,365 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:46:18,365 INFO  [Log] ***************************************** 
+2017-04-30 13:46:18,861 INFO  [Log] Excel Sheet is opened 
+2017-04-30 13:46:23,895 INFO  [Log] Deleted all the cookies 
+2017-04-30 13:46:27,366 INFO  [Log] Browser is Launched 
+2017-04-30 13:46:28,552 INFO  [Log] Browser is maximized 
+2017-04-30 13:46:28,643 INFO  [Log] User Name picked from Excel is:   
+2017-04-30 13:46:28,644 INFO  [Log] Password picked from Excel is:   
+2017-04-30 13:46:28,674 INFO  [Log] My Account link element found 
+2017-04-30 13:46:31,163 INFO  [Log] UserName textbox found 
+2017-04-30 13:46:31,207 INFO  [Log] User Name is entered 
+2017-04-30 13:46:31,228 INFO  [Log] Password textbox found 
+2017-04-30 13:46:31,272 INFO  [Log] Password is entered 
+2017-04-30 13:46:31,293 INFO  [Log] Login button found 
+2017-04-30 13:46:31,348 INFO  [Log] Login Successfully 
+2017-04-30 13:46:31,348 INFO  [Log] Sign In to Online Store 
+2017-04-30 13:46:53,223 INFO  [Log] Test execution results is written into Excel file 
+2017-04-30 13:46:53,223 INFO  [Log] ***************************************** 
+2017-04-30 13:46:53,224 INFO  [Log] $$$$$$$$$$$       E---N---D       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:46:53,224 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:46:53,224 INFO  [Log] ***************************************** 
+2017-04-30 13:49:44,194 INFO  [Log] ***************************************** 
+2017-04-30 13:49:44,195 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:49:44,195 INFO  [Log] ***************************************** 
+2017-04-30 13:49:44,696 INFO  [Log] Excel Sheet is opened 
+2017-04-30 13:49:50,471 INFO  [Log] Deleted all the cookies 
+2017-04-30 13:49:54,341 INFO  [Log] Browser is Launched 
+2017-04-30 13:49:55,525 INFO  [Log] Browser is maximized 
+2017-04-30 13:49:56,887 INFO  [Log] Test execution results is written into Excel file 
+2017-04-30 13:49:56,887 INFO  [Log] ***************************************** 
+2017-04-30 13:49:56,887 INFO  [Log] $$$$$$$$$$$       E---N---D       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:49:56,887 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:49:56,887 INFO  [Log] ***************************************** 
+2017-04-30 13:53:19,806 INFO  [Log] ***************************************** 
+2017-04-30 13:53:19,806 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 13:53:19,806 INFO  [Log] ***************************************** 
+2017-04-30 14:12:11,959 INFO  [Log] ***************************************** 
+2017-04-30 14:12:11,960 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 14:12:11,960 INFO  [Log] ***************************************** 
+2017-04-30 14:12:12,437 INFO  [Log] Excel Sheet is opened 
+2017-04-30 14:12:18,450 INFO  [Log] Deleted all the cookies 
+2017-04-30 14:12:22,045 INFO  [Log] Browser is Launched 
+2017-04-30 14:12:23,246 INFO  [Log] Browser is maximized 
+2017-04-30 14:12:23,336 WARN  [Log] Cell Value is empty 
+2017-04-30 14:12:23,336 INFO  [Log] User Name picked from Excel is:   
+2017-04-30 14:12:23,336 WARN  [Log] Cell Value is empty 
+2017-04-30 14:12:23,336 INFO  [Log] Password picked from Excel is:   
+2017-04-30 14:12:23,372 INFO  [Log] My Account link element found 
+2017-04-30 14:12:25,812 INFO  [Log] UserName textbox found 
+2017-04-30 14:12:25,852 INFO  [Log] User Name is entered 
+2017-04-30 14:12:25,875 INFO  [Log] Password textbox found 
+2017-04-30 14:12:25,923 INFO  [Log] Password is entered 
+2017-04-30 14:12:25,951 INFO  [Log] Login button found 
+2017-04-30 14:12:26,009 INFO  [Log] Login Successfully 
+2017-04-30 14:12:26,009 INFO  [Log] Sign In to Online Store 
+2017-04-30 14:12:47,854 INFO  [Log] Test execution results is written into Excel file 
+2017-04-30 14:12:47,854 INFO  [Log] ***************************************** 
+2017-04-30 14:12:47,854 INFO  [Log] $$$$$$$$$$$       E---N---D       $$$$$$$$$$$$$$$$$ 
+2017-04-30 14:12:47,854 INFO  [Log] $$$$$$$$$$$       OnlineStore_01       $$$$$$$$$$$$$$$$$ 
+2017-04-30 14:12:47,854 INFO  [Log] ***************************************** 
