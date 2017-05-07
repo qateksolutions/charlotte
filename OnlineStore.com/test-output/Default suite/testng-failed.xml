@@ -5,7 +5,6 @@
     <classes>
       <class name="automationFramework.Module_TC">
         <methods>
-          <include name="afterTest"/>
           <include name="beforeTest"/>
           <include name="run"/>
         </methods>
