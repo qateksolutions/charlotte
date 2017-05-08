@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36943" started-at="2017-05-08T23:42:36Z" finished-at="2017-05-08T23:43:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36943" started-at="2017-05-08T23:42:36Z" finished-at="2017-05-08T23:43:13Z">
+      <class name="automationFramework.POM_TC">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:automationFramework.POM_TC@3e6fa38a]" name="beforeTest" is-config="true" duration-ms="36855" started-at="2017-05-08T19:42:36Z" finished-at="2017-05-08T19:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="run()[pri:0, instance:automationFramework.POM_TC@3e6fa38a]" name="run" duration-ms="43" started-at="2017-05-08T19:43:12Z" finished-at="2017-05-08T19:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:automationFramework.POM_TC@3e6fa38a]" name="afterTest" is-config="true" duration-ms="1" started-at="2017-05-08T19:43:13Z" finished-at="2017-05-08T19:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- automationFramework.POM_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
